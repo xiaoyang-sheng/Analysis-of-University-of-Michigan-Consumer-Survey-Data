@@ -21,3 +21,8 @@ https://data.sca.isr.umich.edu/survey-info.php
 The analysis dashboard uses Plotly Dash on Google App Engine, and could be accessed by：
 https://stats-507-375117.wn.r.appspot.com
 (probably go expire now)
+
+## Quick Start
+```shell
+python Dashbaord_setup/main.py
+```
